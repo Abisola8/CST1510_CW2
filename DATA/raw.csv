@@ -1,0 +1,501 @@
+id,mag,location,time,properties_type,coordinates,detail
+us7000ty0s,5.2,West Chile Rise,1794579167843,earthquake,"[-97.9785, -36.4434, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ty0s&format=geojson
+us7000ty0j,4.4,"52 km NE of Santa Rosa, Peru",1794573469644,earthquake,"[-74.6131, -10.5256, 125.786]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ty0j&format=geojson
+us7000ty0g,4.4,"12 km ESE of Baculin, Philippines",1794571977241,earthquake,"[126.6864, 7.3953, 79.163]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000ty0g&format=geojson
+us7000txzd,4.8,"59 km WSW of Houma, Tonga",1794568692734,earthquake,"[-175.8541, -21.3036, 162.78]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txzd&format=geojson
+aka2026wmnegi,2.6,"131 km ESE of Chignik, Alaska",1794568038054,earthquake,"[-156.334, 56.034, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wmnegi&format=geojson
+us7000txz3,4.9,southeast of the Loyalty Islands,1794563745053,earthquake,"[173.4492, -22.3729, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txz3&format=geojson
+aka2026wmkmus,3.3,"10 km ESE of Nikiski, Alaska",1794563239137,earthquake,"[-151.123, 60.651, 61.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wmkmus&format=geojson
+us7000txz0,4.6,"84 km E of Barcelona, Philippines",1794562847087,earthquake,"[127.2035, 8.2136, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txz0&format=geojson
+us7000txyr,4.6,"18 km WNW of Río Grande, Panama",1794556917936,earthquake,"[-81.4943, 7.7821, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txyr&format=geojson
+us7000txyq,4.4,"152 km WSW of Fakfak, Indonesia",1794556535646,earthquake,"[131.1335, -3.6466, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txyq&format=geojson
+us7000txy5,4.7,"27 km NNE of Labuan Lombok, Indonesia",1794545373549,earthquake,"[116.7507, -8.262, 9.626]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txy5&format=geojson
+aka2026wlxvxl,3.5,"88 km SSE of King Cove, Alaska",1794540477345,earthquake,"[-161.58, 54.394, 0]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wlxvxl&format=geojson
+us7000txy0,4.2,"95 km W of San Antonio de los Cobres, Argentina",1794539475340,earthquake,"[-67.263, -24.2106, 176.658]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txy0&format=geojson
+us7000txxy,4.9,"Pagan region, Northern Mariana Islands",1794538503370,earthquake,"[145.6025, 18.8925, 219.572]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txxy&format=geojson
+us7000txxv,4.5,"278 km E of Levuka, Fiji",1794536783505,earthquake,"[-178.0523, -17.9443, 527.134]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txxv&format=geojson
+us7000txxp,4.3,"91 km W of San Antonio de los Cobres, Argentina",1794534272807,earthquake,"[-67.2224, -24.1797, 207.347]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txxp&format=geojson
+pr71539148,3.36,"98 km N of San Juan, Puerto Rico",1794533827490,earthquake,"[-66.1013333333333, 19.3588333333333, 29.27]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71539148&format=geojson
+us7000txxl,5.0,"85 km W of Mwene-Ditu, Democratic Republic of the Congo",1794532366186,earthquake,"[22.68, -6.9392, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txxl&format=geojson
+us7000txx9,5.1,"39 km S of Moíres, Greece",1794528304104,earthquake,"[24.8798, 34.6967, 43.358]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txx9&format=geojson
+us7000txwp,5.8,"148 km NW of Kavieng, Papua New Guinea",1794521046729,earthquake,"[149.8877, -1.5882, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txwp&format=geojson
+us7000txwi,4.6,"117 km S of Akureyri, Iceland",1794520422535,earthquake,"[-17.6047, 64.6502, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txwi&format=geojson
+us7000txw9,5.1,western Indian-Antarctic Ridge,1794517754685,earthquake,"[139.5909, -51.4273, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txw9&format=geojson
+us7000txvw,4.9,"41 km N of Weining, China",1794513794062,earthquake,"[104.1911, 27.2239, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txvw&format=geojson
+nc75465862,2.58,"1 km ENE of Aromas, CA",1794512457270,earthquake,"[-121.635498046875, 36.8901672363281, -0.0599999986588955]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75465862&format=geojson
+aka2026wlhnqh,3.4,"54 km N of Kobuk, Alaska",1794511118831,earthquake,"[-156.786, 67.394, 2.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wlhnqh&format=geojson
+uu80164356,2.95,"3 km NNW of Little America, Wyoming",1794503939890,earthquake,"[-109.878333333333, 41.5665, -3.42]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80164356&format=geojson
+aka2026wlbocy,2.5,"67 km E of Port Alsworth, Alaska",1794500347340,earthquake,"[-153.099, 60.218, 147.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wlbocy&format=geojson
+aka2026wlajid,3.2,"36 km SSW of Nanwalek, Alaska",1794498234833,earthquake,"[-152.075, 59.035, 54.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wlajid&format=geojson
+us7000txtd,4.5,"115 km ESE of Bitung, Indonesia",1794495512284,earthquake,"[126.1127, 1.1216, 39.203]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txtd&format=geojson
+us7000txst,4.4,"Rat Islands, Aleutian Islands, Alaska",1794490797544,earthquake,"[178.7626, 51.3114, 35]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txst&format=geojson
+us7000txsu,4.3,"Bonin Islands, Japan region",1794490675661,earthquake,"[140.4195, 26.6767, 483.86]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txsu&format=geojson
+us7000txsr,4.5,"3 km E of Tako, Japan",1794490042321,earthquake,"[140.5102, 35.7319, 73.353]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txsr&format=geojson
+aka2026wkvgod,2.5,"24 km ESE of Kasilof, Alaska",1794489038733,earthquake,"[-150.88, 60.246, 67.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wkvgod&format=geojson
+hv75069647,2.63,"37 km SE of Naalehu, Hawaii",1794487807350,earthquake,"[-155.315333333333, 18.8376666666667, 28.03]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75069647&format=geojson
+us7000txs5,4.7,"83 km NE of Ruteng, Indonesia",1794482189434,earthquake,"[120.9934, -8.0655, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txs5&format=geojson
+aka2026wkpmlh,2.7,"119 km ESE of Cordova, Alaska",1794478651050,earthquake,"[-143.639, 60.328, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wkpmlh&format=geojson
+tx2026wgyidv,3.1,"15 km E of Pearsall, Texas",1794475218804,earthquake,"[-98.941, 28.874, 7.4904]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026wgyidv&format=geojson
+us7000txrm,4.1,"215 km WSW of Port McNeill, Canada",1794472000140,earthquake,"[-130.0656, 50.2206, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txrm&format=geojson
+us7000txrk,4.5,off the coast of Oregon,1794471448440,earthquake,"[-129.6205, 44.4539, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txrk&format=geojson
+aka2026wkhjxi,2.5,"60 km NW of Ninilchik, Alaska",1794464076292,earthquake,"[-152.493, 60.404, 103.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wkhjxi&format=geojson
+aka2026wkhhbr,2.5,"21 km NNE of Sterling, Alaska",1794463895248,earthquake,"[-150.599, 60.714, 0.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wkhhbr&format=geojson
+aka2026wkhblk,2.8,"95 km SSW of Kaktovik, Alaska",1794463496755,earthquake,"[-144.736, 69.363, 7.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wkhblk&format=geojson
+aka2026wkgnee,3.7,"104 km SSW of Kaktovik, Alaska",1794462508757,earthquake,"[-145.021, 69.334, 4.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wkgnee&format=geojson
+aka2026wkgert,4.1,"123 km SE of Adak, Alaska",1794461926540,earthquake,"[-175.452, 51.042, 16.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wkgert&format=geojson
+aka2026wkdeju,2.5,"51 km W of Akhiok, Alaska",1794456527361,earthquake,"[-155.024, 56.952, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wkdeju&format=geojson
+us7000txqx,4.8,"155 km E of Noda, Japan",1794456452379,earthquake,"[143.6115, 40.3593, 33.039]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txqx&format=geojson
+us7000txqr,5.4,South Sandwich Islands region,1794455156644,earthquake,"[-26.0288, -59.0326, 121.557]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txqr&format=geojson
+aka2026wkcjcz,3.1,"11 km SSE of Kasilof, Alaska",1794455031447,earthquake,"[-151.171, 60.246, 61.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wkcjcz&format=geojson
+us7000txqa,4.8,"43 km SE of Severo-Kuril’sk, Russia",1794446324576,earthquake,"[156.6137, 50.4399, 74.47]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txqa&format=geojson
+us7000txpv,4.4,"84 km SE of Akutan, Alaska",1794441646340,earthquake,"[-164.8071, 53.637, 37.007]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txpv&format=geojson
+us7000txpu,3.9,"95 km SE of Akutan, Alaska",1794441580557,earthquake,"[-164.7435, 53.5338, 36.874]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txpu&format=geojson
+tx2026wgdyjd,2.5,"23 km S of Westbrook, Texas",1794438349392,earthquake,"[-101.06, 32.147, 9.4482]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026wgdyjd&format=geojson
+us7000txpk,4.6,"73 km NNW of Gyalshing, India",1794438022433,earthquake,"[87.8857, 27.8692, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txpk&format=geojson
+us7000txpg,2.6,"112 km N of Yakutat, Alaska",1794437058380,earthquake,"[-140.1042, 60.5416, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txpg&format=geojson
+us7000txpa,4.9,"116 km E of Georgetown, Saint Helena",1794434622425,earthquake,"[-13.3536, -7.9928, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txpa&format=geojson
+pr71539098,2.93,"22 km SE of Emajagua, Puerto Rico",1794432018460,earthquake,"[-65.7301666666667, 17.8535, 8.12]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71539098&format=geojson
+us7000txns,4.4,"112 km SW of Brisas Barra de Suchiate, Mexico",1794431721821,earthquake,"[-92.9412, 13.803, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txns&format=geojson
+us7000txni,4.5,"41 km SSE of Camiña, Chile",1794429904390,earthquake,"[-69.3312, -19.6783, 112.957]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txni&format=geojson
+us7000txnf,4.4,"274 km W of Houma, Tonga",1794429502718,earthquake,"[-177.9398, -21.3542, 392.607]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txnf&format=geojson
+aka2026wjnswr,3.3,"131 km SSE of Old Harbor, Alaska",1794428686192,earthquake,"[-152.443, 56.125, 5.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wjnswr&format=geojson
+us7000txmx,4.5,south of the Fiji Islands,1794426621669,earthquake,"[-179.8474, -23.5023, 527.582]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txmx&format=geojson
+us7000txmq,5.0,"48 km NW of Ancud, Chile",1794424877374,earthquake,"[-74.1759, -41.5234, 34.893]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txmq&format=geojson
+aka2026wjlejc,3.1,"128 km SSE of Old Harbor, Alaska",1794424099738,earthquake,"[-152.489, 56.136, 20.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wjlejc&format=geojson
+us7000txmi,3.9,"34 km ESE of Vallenar, Chile",1794422516682,earthquake,"[-70.4194, -28.6411, 113.235]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txmi&format=geojson
+us7000txm8,5.1,"80 km W of Panguna, Papua New Guinea",1794418702582,earthquake,"[154.7612, -6.3288, 58.822]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txm8&format=geojson
+tx2026wfribb,2.6,"15 km E of Pearsall, Texas",1794415473750,earthquake,"[-98.943, 28.87, 8.4451]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026wfribb&format=geojson
+aka2026wjfuiv,2.5,"28 km SSE of Denali National Park, Alaska",1794414426604,earthquake,"[-151.547, 63.297, 17.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wjfuiv&format=geojson
+us7000txjg,5.1,South Sandwich Islands region,1794411565949,earthquake,"[-27.7366, -56.0247, 104.66]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txjg&format=geojson
+tx2026wfnqhx,2.5,"56 km S of Whites City, New Mexico",1794408825518,earthquake,"[-104.333, 31.671, 6.6125]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026wfnqhx&format=geojson
+aka2026wjamms,2.8,"77 km W of Arctic Village, Alaska",1794404888117,earthquake,"[-147.39, 68.052, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wjamms&format=geojson
+us7000txiz,4.5,"62 km NNE of Port-Olry, Vanuatu",1794401106171,earthquake,"[167.2586, -14.5029, 149.444]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txiz&format=geojson
+us7000txiw,4.7,"168 km W of Fakfak, Indonesia",1794399443633,earthquake,"[130.7831, -3.0211, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txiw&format=geojson
+us7000txiv,4.6,"130 km E of Masohi, Indonesia",1794399012680,earthquake,"[130.1356, -3.1593, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txiv&format=geojson
+us7000txis,5.1,"27 km WSW of Calama, Chile",1794397011281,earthquake,"[-69.1693, -22.5427, 91.309]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txis&format=geojson
+pr71539058,3.04,"43 km N of Charlotte Amalie, U.S. Virgin Islands",1794396910000,earthquake,"[-64.9921666666667, 18.7298333333333, 35.89]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71539058&format=geojson
+us7000txir,5.1,"Pulau Pulau Tanimbar, Indonesia",1794396744685,earthquake,"[130.2513, -7.9445, 14.704]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txir&format=geojson
+us7000txim,4.0,"10 km NE of San Agustín Chayuco, Mexico",1794394899315,earthquake,"[-97.7421, 16.4699, 35]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txim&format=geojson
+us7000txil,4.6,"64 km NW of Port-Vila, Vanuatu",1794394657101,earthquake,"[167.9671, -17.2615, 42.696]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txil&format=geojson
+pr71539048,2.92,"20 km WNW of Charlotte Amalie, U.S. Virgin Islands",1794394266090,earthquake,"[-65.1045, 18.4223333333333, 15.98]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71539048&format=geojson
+pr71539033,2.76,"9 km NNW of Garrochales, Puerto Rico",1794391968570,earthquake,"[-66.5931666666667, 18.5388333333333, 87.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71539033&format=geojson
+us7000txi6,4.1,"23 km WSW of Eilat, Israel",1794389092651,earthquake,"[34.7217, 29.4748, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txi6&format=geojson
+aka2026wiqmvw,3.7,"53 km SW of Port Alexander, Alaska",1794386923021,earthquake,"[-135.225, 55.895, 3.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wiqmvw&format=geojson
+us7000txi2,4.4,western Xizang,1794386872006,earthquake,"[86.5462, 34.149, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txi2&format=geojson
+us7000txi0,4.7,"152 km WSW of Merizo Village, Guam",1794386235449,earthquake,"[143.3322, 12.8418, 137.374]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txi0&format=geojson
+us7000txhv,4.3,"9 km W of La Humedad, Mexico",1794384337278,earthquake,"[-97.7508, 16.5979, 35]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txhv&format=geojson
+aka2026wioent,3.7,"116 km SE of Port Graham, Alaska",1794382725752,earthquake,"[-150.562, 58.534, 40.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wioent&format=geojson
+us7000txhn,4.2,"64 km WSW of Valparaíso, Chile",1794380249738,earthquake,"[-72.2667, -33.2527, 26.346]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txhn&format=geojson
+us7000txhi,5.1,Balleny Islands region,1794378105383,earthquake,"[155.0206, -62.4284, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txhi&format=geojson
+us7000txgv,5.0,"152 km SE of Kuril’sk, Russia",1794374788222,earthquake,"[149.4063, 44.3915, 30.338]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txgv&format=geojson
+us7000txgq,4.6,"54 km WNW of Malfa, Italy",1794373928509,earthquake,"[14.2589, 38.7563, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txgq&format=geojson
+us7000txgi,4.3,"70 km SW of Nikolski, Alaska",1794370859883,earthquake,"[-169.6878, 52.5525, 42.206]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txgi&format=geojson
+us7000txgg,4.6,"130 km ENE of Hasaki, Japan",1794369412372,earthquake,"[142.185, 36.1492, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txgg&format=geojson
+pr71539028,2.87,"47 km NNW of San Antonio, Puerto Rico",1794364823300,earthquake,"[-67.2981666666667, 18.8773333333333, 8.48]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71539028&format=geojson
+us7000txfz,4.7,"130 km W of Tofino, Canada",1794361527859,earthquake,"[-127.6912, 49.0876, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txfz&format=geojson
+pr71539018,3.09,"53 km NNW of Culebra, Puerto Rico",1794361300180,earthquake,"[-65.4208333333333, 18.7766666666667, 49.46]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71539018&format=geojson
+uw714137391,2.74,"52 km W of Neah Bay, Washington",1794361101410,earthquake,"[-125.3205, 48.4413333333333, 4.78]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uw714137391&format=geojson
+us7000txfx,4.2,"51 km ENE of Petropavlovsk-Kamchatsky, Russia",1794358881525,earthquake,"[159.2964, 53.2952, 92.146]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txfx&format=geojson
+us7000txf9,4.5,"16 km SSE of Gaoyou, China",1794348910243,earthquake,"[119.5153, 32.6589, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txf9&format=geojson
+us7000txf8,4.5,"61 km ENE of Blangpidie, Indonesia",1794348547218,earthquake,"[97.359, 3.9179, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txf8&format=geojson
+us7000txea,4.9,"207 km NW of Port-Olry, Vanuatu",1794340458279,earthquake,"[165.5166, -13.9345, 11.705]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txea&format=geojson
+aka2026whmgzn,2.9,"74 km WNW of Petersville, Alaska",1794332547915,earthquake,"[-152.155, 62.678, 0.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026whmgzn&format=geojson
+us7000txc0,5.2,"21 km WNW of Popondetta, Papua New Guinea",1794332209391,earthquake,"[148.0429, -8.7206, 124.245]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txc0&format=geojson
+us7000txc3,5.2,Mid-Indian Ridge,1794332188861,earthquake,"[68.4755, -20.7528, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txc3&format=geojson
+aka2026whjxeu,2.7,"9 km WNW of Kalifornsky, Alaska",1794328264149,earthquake,"[-151.46, 60.448, 67.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026whjxeu&format=geojson
+nc75464862,2.74,"1 km N of Lake Davis, CA",1794327380850,earthquake,"[-120.472663879395, 39.8785018920898, -1.39999997615814]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75464862&format=geojson
+us7000txbj,4.8,"20 km SSW of Lata, Solomon Islands",1794325975256,earthquake,"[165.7366, -10.8979, 48.333]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txbj&format=geojson
+us7000txbi,5.1,"139 km ESE of Labuha, Indonesia",1794325895658,earthquake,"[128.701, -0.9034, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txbi&format=geojson
+us7000txbc,4.8,"33 km S of Puerto San José, Guatemala",1794324238640,earthquake,"[-90.8183, 13.6248, 58.303]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txbc&format=geojson
+us7000txb8,5.5,"40 km S of Puerto San José, Guatemala",1794322459977,earthquake,"[-90.8534, 13.5622, 59.652]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txb8&format=geojson
+us7000txb6,4.7,"3 km SSE of Sukabumi, Indonesia",1794321096388,earthquake,"[106.9355, -6.9525, 101.214]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txb6&format=geojson
+aka2026whfnqi,2.5,"49 km E of Pedro Bay, Alaska",1794320406337,earthquake,"[-153.234, 59.727, 115.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026whfnqi&format=geojson
+aka2026wheyys,2.6,"48 km SSE of Denali National Park, Alaska",1794319391153,earthquake,"[-151.475, 63.124, 1.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wheyys&format=geojson
+us7000txay,4.7,"111 km WNW of Höfn, Iceland",1794317873102,earthquake,"[-17.2814, 64.7124, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txay&format=geojson
+hv75069102,2.65,"7 km NNE of Puako, Hawaii",1794314461300,earthquake,"[-155.811666666667, 20.0291666666667, 4.49]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75069102&format=geojson
+aka2026whbwrl,2.6,"51 km N of Aleneva, Alaska",1794313836703,earthquake,"[-152.996, 58.516, 64.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026whbwrl&format=geojson
+us7000txbm,3.4,"130 km WSW of Nikolski, Alaska",1794308678179,earthquake,"[-170.4818, 52.306, 35]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txbm&format=geojson
+us7000txbk,3.4,"127 km SW of Nikolski, Alaska",1794305127307,earthquake,"[-170.4282, 52.3049, 35]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txbk&format=geojson
+aka2026wgwxww,2.5,"59 km E of Pedro Bay, Alaska",1794304922815,earthquake,"[-153.067, 59.696, 111.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wgwxww&format=geojson
+hv75069032,2.91,"57 km SSW of Mākena, Hawaii",1794303558640,earthquake,"[-156.632166666667, 20.1636666666667, 3.18]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75069032&format=geojson
+hv75069027,2.63,"56 km S of Mākena, Hawaii",1794303422490,earthquake,"[-156.546333333333, 20.1493333333333, 1.24]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75069027&format=geojson
+pr2026314000,3.68,"69 km N of Culebra, Puerto Rico",1794300484860,earthquake,"[-65.2388, 18.9285, 14]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr2026314000&format=geojson
+us7000tx9z,5.0,"58 km NE of Fef, Indonesia",1794299647131,earthquake,"[132.859, -0.4928, 35]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx9z&format=geojson
+uw714136981,4.3,"18 km SE of Joseph, Oregon",1794296572650,earthquake,"[-117.038, 45.2591666666667, 11.67]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uw714136981&format=geojson
+us7000tx9n,4.8,northern Mid-Atlantic Ridge,1794292991261,earthquake,"[-35.075, 34.8774, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx9n&format=geojson
+pr71538963,2.89,"75 km NNE of Vieques, Puerto Rico",1794292662800,earthquake,"[-65.5113333333333, 19.0353333333333, 25.98]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538963&format=geojson
+us7000tx9i,4.7,"90 km SSE of Tateyama, Japan",1794292608749,earthquake,"[140.1377, 34.1962, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx9i&format=geojson
+pr71538948,3.41,"11 km NE of Boca de Yuma, Dominican Republic",1794290213630,earthquake,"[-68.5245, 18.446, 52.01]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538948&format=geojson
+us7000tx96,4.9,"78 km ESE of Hitachi, Japan",1794288008677,earthquake,"[141.4659, 36.3338, 35]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx96&format=geojson
+pr71538938,3.01,"52 km N of San Juan, Puerto Rico",1794285184260,earthquake,"[-66.2018333333333, 18.9285, 23.42]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538938&format=geojson
+us7000tx8z,4.6,"65 km SW of Lata, Solomon Islands",1794285017109,earthquake,"[165.3377, -11.1105, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx8z&format=geojson
+us7000txs8,4.4,southeast Indian Ridge,1794284038010,earthquake,"[84.6465, -41.7288, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txs8&format=geojson
+us7000tx8s,5.2,"19 km WSW of Lata, Solomon Islands",1794281866152,earthquake,"[165.6239, -10.7818, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx8s&format=geojson
+aka2026wgjfnu,3.1,"265 km SSW of Inuvik, Canada",1794280213167,earthquake,"[-136.446, 66.22, 16.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wgjfnu&format=geojson
+pr71538933,3.07,"61 km N of Charlotte Amalie, U.S. Virgin Islands",1794276933390,earthquake,"[-65.0016666666667, 18.8905, 21.89]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538933&format=geojson
+us7000tx8i,4.9,north of Franz Josef Land,1794276003024,earthquake,"[65.2936, 86.7236, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx8i&format=geojson
+us7000tx8d,5.4,"Pulau Pulau Tanimbar, Indonesia",1794275604195,earthquake,"[130.2935, -7.8742, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx8d&format=geojson
+us7000tx8b,3.0,"56 km NNE of Miches, Dominican Republic",1794275530427,earthquake,"[-68.7883, 19.4347, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx8b&format=geojson
+hv75068917,2.58,"11 km E of Pāhala, Hawaii",1794275388400,earthquake,"[-155.370333333333, 19.1916666666667, 28.73]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75068917&format=geojson
+aka2026wgggss,2.9,"8 km W of Takotna, Alaska",1794274945038,earthquake,"[-156.225, 62.979, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wgggss&format=geojson
+us7000txa7,4.5,"224 km W of Abepura, Indonesia",1794269483263,earthquake,"[138.6219, -2.3853, 35]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txa7&format=geojson
+us7000tx7v,4.9,south of the Fiji Islands,1794267926548,earthquake,"[-177.3757, -24.5715, 175.527]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx7v&format=geojson
+us7000tx9y,4.9,South Sandwich Islands region,1794267612931,earthquake,"[-23.8725, -56.7537, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx9y&format=geojson
+nn00926833,2.76,"21 km W of Preston, Nevada",1794265018999,earthquake,"[-115.3098, 38.9323, 3.8633]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nn00926833&format=geojson
+us7000tx7h,4.7,"103 km W of Attu Station, Alaska",1794261787482,earthquake,"[171.6466, 52.7984, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx7h&format=geojson
+us7000tx9s,4.3,"78 km NW of Pante Makasar, Timor Leste",1794258395674,earthquake,"[123.9775, -8.6129, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx9s&format=geojson
+aka2026wfwbix,3.3,"76 km WNW of Petersville, Alaska",1794256578548,earthquake,"[-152.193, 62.693, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wfwbix&format=geojson
+tx2026wchfpx,2.6,"11 km WNW of Hilltop, Texas",1794255996527,earthquake,"[-99.28, 28.741, 6.6028]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026wchfpx&format=geojson
+us7000tx6m,4.8,"149 km NW of Port-Olry, Vanuatu",1794252474236,earthquake,"[165.9539, -14.2428, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx6m&format=geojson
+us7000tx6l,4.6,south of the Fiji Islands,1794251387863,earthquake,"[-179.9613, -23.675, 519.944]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx6l&format=geojson
+tx2026wcegqh,2.6,"15 km E of Pearsall, Texas",1794250636493,earthquake,"[-98.938, 28.871, 8.6201]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026wcegqh&format=geojson
+us7000tx6j,4.6,"206 km E of Kirakira, Solomon Islands",1794250305515,earthquake,"[163.8048, -10.5301, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx6j&format=geojson
+aka2026wfslmi,3.2,"57 km NNW of Yakutat, Alaska",1794250088388,earthquake,"[-140.269, 59.986, 8.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wfslmi&format=geojson
+aka2026wfqnyl,3.4,"15 km SSE of Larsen Bay, Alaska",1794246655148,earthquake,"[-153.911, 57.407, 23.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wfqnyl&format=geojson
+pr2026313001,3.63,"48 km SSW of Boca de Yuma, Dominican Republic",1794245568450,earthquake,"[-68.7958, 17.974, 79]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr2026313001&format=geojson
+aka2026wfpvmd,2.6,"3 km NNE of Salamatof, Alaska",1794245382213,earthquake,"[-151.297, 60.645, 70.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wfpvmd&format=geojson
+us7000tx4r,4.5,"152 km E of Masohi, Indonesia",1794243162181,earthquake,"[130.3306, -3.1442, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx4r&format=geojson
+us7000tx4g,4.1,"64 km NNW of Furubira, Japan",1794240373375,earthquake,"[140.2124, 43.7689, 224.872]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx4g&format=geojson
+us7000tx4y,2.7,"265 km SSW of Nikolski, Alaska",1794238107048,earthquake,"[-170.7884, 50.8723, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx4y&format=geojson
+tx2026wbxhyh,3.0,"57 km S of Whites City, New Mexico",1794238066066,earthquake,"[-104.415, 31.655, 5.5872]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026wbxhyh&format=geojson
+pr71538883,2.78,"75 km N of Charlotte Amalie, U.S. Virgin Islands",1794237092440,earthquake,"[-64.9305, 19.0221666666667, 26.98]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538883&format=geojson
+us7000tx47,4.9,Mid-Indian Ridge,1794236673790,earthquake,"[74.3713, -28.1856, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx47&format=geojson
+us7000tx48,4.3,"164 km E of Masohi, Indonesia",1794236147985,earthquake,"[130.4474, -3.2102, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx48&format=geojson
+aka2026wfiycs,2.6,"38 km WSW of Tyonek, Alaska",1794232970591,earthquake,"[-151.823, 60.982, 92.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wfiycs&format=geojson
+aka2026wfhqhv,2.7,"45 km E of Denali National Park, Alaska",1794230631098,earthquake,"[-150.822, 63.608, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wfhqhv&format=geojson
+av94493293,2.95,"Rat Islands, Aleutian Islands, Alaska",1794229925500,earthquake,"[178.428, 52.0366666666667, 9.31]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=av94493293&format=geojson
+tx2026wbrxsu,2.5,"16 km ESE of Pearsall, Texas",1794228292063,earthquake,"[-98.933, 28.839, 7.024]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026wbrxsu&format=geojson
+us7000tx3n,4.7,"17 km NW of İmamoğlu, Turkey",1794227298182,earthquake,"[35.5394, 37.39, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx3n&format=geojson
+aka2026wffimg,2.8,"Rat Islands, Aleutian Islands, Alaska",1794226484660,earthquake,"[178.708, 51.273, 15.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wffimg&format=geojson
+hv75068782,2.51,"2 km SW of Pāhala, Hawaii",1794224350000,earthquake,"[-155.494, 19.1916666666667, 30.95]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75068782&format=geojson
+us7000tx3c,4.7,"271 km N of Tobelo, Indonesia",1794223507473,earthquake,"[127.7802, 4.1741, 98.292]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx3c&format=geojson
+us7000tx3a,4.4,"76 km W of Murghob, Tajikistan",1794220396911,earthquake,"[73.1107, 38.0523, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx3a&format=geojson
+us7000tx38,5.3,"80 km ENE of Lagunas, Peru",1794219833528,earthquake,"[-75.0002, -4.9495, 11.49]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx38&format=geojson
+us7000tx39,4.3,"226 km E of Levuka, Fiji",1794219674741,earthquake,"[-178.5487, -18.1444, 595.79]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx39&format=geojson
+us7000tx36,4.3,south of the Fiji Islands,1794218925056,earthquake,"[179.5725, -25.563, 530.544]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx36&format=geojson
+us7000tx34,4.8,"183 km E of Masohi, Indonesia",1794218018135,earthquake,"[130.5842, -2.9775, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx34&format=geojson
+us7000tx32,5.4,"160 km E of Masohi, Indonesia",1794217707794,earthquake,"[130.3905, -3.0627, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx32&format=geojson
+us7000tx2y,4.1,western Xizang,1794215477316,earthquake,"[86.0958, 33.912, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx2y&format=geojson
+aka2026wexuhj,3.5,"48 km N of Petersville, Alaska",1794212915483,earthquake,"[-150.64, 62.926, 112.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wexuhj&format=geojson
+us7000tx2q,4.2,"23 km SSW of Fiambalá, Argentina",1794212533253,earthquake,"[-67.707, -27.868, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx2q&format=geojson
+pr2026313000,3.51,"59 km NW of San Antonio, Puerto Rico",1794208755990,earthquake,"[-67.4155, 18.9358, 18]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr2026313000&format=geojson
+us7000tx2g,4.6,"54 km S of Klyuchi, Russia",1794207853845,earthquake,"[160.9753, 55.8343, 154.988]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx2g&format=geojson
+us7000tx1w,4.1,"121 km NNW of Hicks Bay, New Zealand",1794203417844,earthquake,"[177.6746, -36.6221, 169.371]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx1w&format=geojson
+hv75068732,2.62,"5 km S of Pāhala, Hawaii",1794202581210,earthquake,"[-155.478666666667, 19.152, 12.46]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75068732&format=geojson
+us7000tx1p,4.8,"26 km SW of Lata, Solomon Islands",1794201416823,earthquake,"[165.6396, -10.912, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx1p&format=geojson
+us7000tx1i,4.6,"69 km ESE of Takahagi, Japan",1794200513640,earthquake,"[141.4485, 36.4941, 35]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx1i&format=geojson
+us7000tx1f,5.7,"106 km ENE of Hasaki, Japan",1794199971519,earthquake,"[141.8299, 36.2471, 24.173]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx1f&format=geojson
+us7000tx1d,3.8,"246 km W of Ferndale, California",1794199764543,earthquake,"[-127.149, 40.908, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx1d&format=geojson
+us7000tx16,6.4,"30 km WSW of Lata, Solomon Islands",1794195299466,earthquake,"[165.5616, -10.8669, 17]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx16&format=geojson
+us7000tx11,4.4,"93 km ESE of Kyzyl-Eshme, Kyrgyzstan",1794192030825,earthquake,"[73.2982, 39.2878, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx11&format=geojson
+aka2026welzut,2.7,"164 km N of Adak, Alaska",1794191707409,earthquake,"[-176.313, 53.336, 8.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026welzut&format=geojson
+tx2026waxmhq,2.8,"15 km E of Pearsall, Texas",1794191290020,earthquake,"[-98.938, 28.876, 7.1535]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026waxmhq&format=geojson
+aka2026welolb,3.0,"73 km S of Adak, Alaska",1794190925085,earthquake,"[-176.745, 51.221, 18.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026welolb&format=geojson
+us7000tx0x,4.9,south of the Fiji Islands,1794190917196,earthquake,"[-176.9956, -25.1858, 136.311]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx0x&format=geojson
+us7000tx0v,4.4,"70 km S of Yudomari, Japan",1794190338837,earthquake,"[130.3789, 29.603, 51.061]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx0v&format=geojson
+us7000tx0p,4.3,"63 km NE of Keren, Eritrea",1794186691600,earthquake,"[38.8821, 16.1771, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx0p&format=geojson
+us7000tx0f,5.1,south of the Fiji Islands,1794185219021,earthquake,"[179.2119, -23.6774, 535.494]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx0f&format=geojson
+nc75464202,2.59,"1 km NNW of The Geysers, CA",1794185075380,earthquake,"[-122.761497497559, 38.7890014648438, 0.430000007152557]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75464202&format=geojson
+aka2026wehwiq,2.5,"78 km SW of Adak, Alaska",1794184268537,earthquake,"[-177.324, 51.311, 7.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wehwiq&format=geojson
+tx2026watmya,2.9,"5 km WSW of Westbrook, Texas",1794184095138,earthquake,"[-101.071, 32.341, 7.2998]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026watmya&format=geojson
+aka2026wehiax,2.9,"13 km SSW of Susitna, Alaska",1794183310168,earthquake,"[-150.607, 61.436, 57.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wehiax&format=geojson
+hv75068657,2.7,"61 km WSW of Kahaluu-Keauhou, Hawaii",1794178283410,earthquake,"[-156.467333333333, 19.288, 5.61]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75068657&format=geojson
+us7000twzn,4.7,"119 km SW of Kokopo, Papua New Guinea",1794177010325,earthquake,"[151.4884, -5.0941, 120.843]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twzn&format=geojson
+us7000twzl,4.4,"85 km NE of Hasaki, Japan",1794176740750,earthquake,"[141.5834, 36.2021, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twzl&format=geojson
+us7000twzm,4.4,Mariana Islands region,1794176644721,earthquake,"[143.8084, 21.5743, 211.558]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twzm&format=geojson
+us7000tx42,4.1,"19 km ESE of Masumbwe, Tanzania",1794175639969,earthquake,"[32.3574, -3.6731, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx42&format=geojson
+us7000twz2,4.5,"43 km E of Onagawa Chō, Japan",1794168990347,earthquake,"[141.937, 38.3782, 55.699]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twz2&format=geojson
+aka2026wdzewo,3.0,"44 km NNW of Glacier View, Alaska",1794168669912,earthquake,"[-147.861, 62.195, 20.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wdzewo&format=geojson
+us7000twyw,4.4,off the coast of Oregon,1794165631718,earthquake,"[-128.5405, 44.0286, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twyw&format=geojson
+us7000twyd,4.6,"117 km NE of Tobelo, Indonesia",1794156312938,earthquake,"[128.6755, 2.5497, 224.59]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twyd&format=geojson
+us7000twyc,4.8,central Mid-Atlantic Ridge,1794155604915,earthquake,"[-36.9451, 7.703, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twyc&format=geojson
+pr71538833,3.42,"88 km NE of Cruz Bay, U.S. Virgin Islands",1794149546630,earthquake,"[-64.262, 18.9528333333333, 21.53]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538833&format=geojson
+aka2026wdoizt,3.5,"27 km NNW of Cooper Landing, Alaska",1794149163379,earthquake,"[-150.093, 60.696, 33.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wdoizt&format=geojson
+nn00926785,3.54,"21 km W of Preston, Nevada",1794146117032,earthquake,"[-115.3064, 38.9507, 4.7569]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nn00926785&format=geojson
+aka2026wdkbxh,2.7,"47 km SSW of Adak, Alaska",1794141474964,earthquake,"[-176.994, 51.514, 65.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wdkbxh&format=geojson
+pr71538818,3.37,"126 km NNW of Charlotte Amalie, U.S. Virgin Islands",1794141442680,earthquake,"[-65.1911666666667, 19.4585, 46.62]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538818&format=geojson
+aka2026wdjunj,2.9,"58 km SSW of Adak, Alaska",1794140963086,earthquake,"[-176.917, 51.383, 0.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wdjunj&format=geojson
+us7000twxn,4.7,Southwest Indian Ridge,1794140957722,earthquake,"[64.443, -27.6901, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twxn&format=geojson
+us7000twxf,4.7,"46 km NW of Huara, Chile",1794139112451,earthquake,"[-70.0603, -19.6811, 68.785]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twxf&format=geojson
+nc75463937,2.5,"23 km SE of Pinnacles, CA",1794137943930,earthquake,"[-120.967498779297, 36.3768348693848, 9.40999984741211]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75463937&format=geojson
+aka2026wdhrrq,3.0,"67 km SSE of Adak, Alaska",1794137181105,earthquake,"[-176.314, 51.3, 14.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wdhrrq&format=geojson
+aka2026wdhdwc,3.4,"43 km WNW of Akhiok, Alaska",1794136208645,earthquake,"[-154.807, 57.129, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wdhdwc&format=geojson
+aka2026wdhcdv,2.6,"45 km NNE of Petersville, Alaska",1794136093971,earthquake,"[-150.554, 62.895, 91]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wdhcdv&format=geojson
+pr2026312001,3.58,"124 km NNE of Vieques, Puerto Rico",1794135420380,earthquake,"[-65.3985, 19.4673, 71]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr2026312001&format=geojson
+us7000twx5,3.4,"8 km SSE of Stonewall Gap, Colorado",1794134065714,earthquake,"[-104.9914, 37.0823, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twx5&format=geojson
+us7000twx1,4.7,"137 km E of Miyako, Japan",1794129815700,earthquake,"[143.5257, 39.8647, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twx1&format=geojson
+hv75068467,2.52,"22 km W of Volcano, Hawaii",1794129299850,earthquake,"[-155.4495, 19.4745, 0.27]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75068467&format=geojson
+aka2026wdbbfz,2.5,"99 km SSE of Port Graham, Alaska",1794125248959,earthquake,"[-151.07, 58.548, 7.6]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wdbbfz&format=geojson
+pr71538788,3.0,"8 km SSE of Maria Antonia, Puerto Rico",1794123958440,earthquake,"[-66.8491666666667, 17.9146666666667, 8.36]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538788&format=geojson
+us7000twwm,4.3,"18 km N of Darreh Shahr, Iran",1794123112092,earthquake,"[47.352, 33.3096, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twwm&format=geojson
+pr71538773,2.91,"2 km NNW of La Parguera, Puerto Rico",1794122251580,earthquake,"[-67.0536666666667, 17.9926666666667, 6.62]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538773&format=geojson
+uu80163631,2.55,"15 km NNE of Milford, Utah",1794121834690,earthquake,"[-112.918666666667, 38.5193333333333, 3.34]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80163631&format=geojson
+us7000twwg,4.3,"60 km WNW of San Antonio de los Cobres, Argentina",1794121369940,earthquake,"[-66.8882, -24.0461, 223.654]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twwg&format=geojson
+pr2026312000,3.7,"124 km NNE of Punta Cana, Dominican Republic",1794119419740,earthquake,"[-67.7595, 19.5271, 16]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr2026312000&format=geojson
+aka2026wcwnow,3.0,"16 km SW of Susitna, Alaska",1794117095337,earthquake,"[-150.696, 61.423, 71.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wcwnow&format=geojson
+aka2026wcvkhi,3.8,"73 km NNW of Chalkyitsik, Alaska",1794115058948,earthquake,"[-144.309, 67.269, 3.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wcvkhi&format=geojson
+uu80163621,2.52,"15 km SW of Georgetown, Idaho",1794113940360,earthquake,"[-111.516166666667, 42.3881666666667, 4.27]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80163621&format=geojson
+aka2026wcupfw,2.5,"9 km NE of Karluk, Alaska",1794113608750,earthquake,"[-154.365, 57.64, 45.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wcupfw&format=geojson
+aka2026wcrggv,3.1,"120 km ESE of Atka, Alaska",1794107579026,earthquake,"[-172.499, 51.942, 29.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wcrggv&format=geojson
+aka2026wcrdek,2.7,"35 km N of Sutton-Alpine, Alaska",1794107416855,earthquake,"[-148.869, 62.094, 19.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wcrdek&format=geojson
+us7000twvh,4.3,"76 km WNW of Murghob, Tajikistan",1794106210197,earthquake,"[73.1675, 38.4508, 95.394]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twvh&format=geojson
+aka2026wcpkkr,3.0,"95 km SSE of King Cove, Alaska",1794104280336,earthquake,"[-161.533, 54.332, 0.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wcpkkr&format=geojson
+us7000twvb,4.5,"11 km W of Honmachi, Japan",1794102796193,earthquake,"[130.4721, 32.5014, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twvb&format=geojson
+aka2026wcmnan,2.5,"111 km WSW of Adak, Alaska",1794099064515,earthquake,"[-178.085, 51.431, 57.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wcmnan&format=geojson
+aka2026wclyuc,2.6,"91 km SSW of Nikolski, Alaska",1794098072790,earthquake,"[-169.334, 52.165, 4.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wclyuc&format=geojson
+us7000twuw,4.4,"87 km ESE of Kyzyl-Eshme, Kyrgyzstan",1794095888562,earthquake,"[73.2495, 39.3576, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twuw&format=geojson
+us7000twus,5.1,"91 km ENE of Hihifo, Tonga",1794094029444,earthquake,"[-172.9847, -15.6837, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twus&format=geojson
+us7000twur,4.9,"41 km WSW of Gadung, Philippines",1794093935852,earthquake,"[123.6541, 6.706, 607.007]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twur&format=geojson
+us7000twuq,4.5,"77 km SW of La Gomera, Guatemala",1794093755649,earthquake,"[-91.4602, 13.5083, 34.237]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twuq&format=geojson
+us7000twun,5.8,central Mid-Atlantic Ridge,1794093425477,earthquake,"[-36.8221, 7.4618, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twun&format=geojson
+us7000twum,4.4,"91 km ESE of Kyzyl-Eshme, Kyrgyzstan",1794093273811,earthquake,"[73.2801, 39.3146, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twum&format=geojson
+pr71538728,3.02,"1 km WSW of La Parguera, Puerto Rico",1794088034980,earthquake,"[-67.0623333333333, 17.9668333333333, 8.03]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538728&format=geojson
+us7000twu1,4.7,"43 km ESE of Ambon, Indonesia",1794084938512,earthquake,"[128.5121, -3.905, 136.656]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twu1&format=geojson
+uu80163566,2.66,"14 km NE of Milford, Utah",1794084575060,earthquake,"[-112.891333333333, 38.4883333333333, 4.64]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80163566&format=geojson
+us7000twtv,4.5,"65 km WSW of Masachapa, Nicaragua",1794081310891,earthquake,"[-87.0544, 11.526, 37.054]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twtv&format=geojson
+aka2026wcchuf,4.0,"203 km SE of Unalaska, Alaska",1794080708410,earthquake,"[-164.782, 52.377, 27.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wcchuf&format=geojson
+pr71538718,2.5,"1 km NW of Magas Arriba, Puerto Rico",1794079483520,earthquake,"[-66.7781666666667, 18.0251666666667, 14.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538718&format=geojson
+uu80163521,3.12,"13 km NE of Milford, Utah",1794075056160,earthquake,"[-112.895166666667, 38.4783333333333, 3.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80163521&format=geojson
+aka2026wbytqz,2.9,"7 km SW of Nikolaevsk, Alaska",1794074334493,earthquake,"[-151.7, 59.766, 76.6]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wbytqz&format=geojson
+us7000twt8,4.7,"45 km NNW of Salinas, Ecuador",1794071858931,earthquake,"[-81.1439, -1.8505, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twt8&format=geojson
+aka2026wbvubh,2.5,"38 km NW of Beluga, Alaska",1794068964746,earthquake,"[-151.682, 61.338, 81.6]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wbvubh&format=geojson
+us7000twt0,5.5,"8 km E of Shinshiro, Japan",1794067475288,earthquake,"[137.5969, 34.8969, 37.07]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twt0&format=geojson
+us7000twsy,4.5,"11 km ESE of Pedasí, Panama",1794067312257,earthquake,"[-79.921, 7.5067, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twsy&format=geojson
+us7000twsz,4.3,"251 km ESE of Tadine, New Caledonia",1794066900079,earthquake,"[170.0629, -22.5556, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twsz&format=geojson
+us7000twsu,2.6,"25 km S of Clayton, Idaho",1794066194995,earthquake,"[-114.4549, 44.0302, 11.906]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twsu&format=geojson
+us7000twss,4.9,"73 km NNW of Khorixas, Namibia",1794064970507,earthquake,"[14.7685, -19.7325, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twss&format=geojson
+us7000twsr,2.6,"101 km N of Yakutat, Alaska",1794064522161,earthquake,"[-139.7607, 60.4562, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twsr&format=geojson
+us7000twsp,4.5,Fiji region,1794063945113,earthquake,"[-178.7119, -20.8363, 571.898]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twsp&format=geojson
+uu80163431,2.71,"14 km NE of Milford, Utah",1794054909690,earthquake,"[-112.891333333333, 38.4885, 5.23]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80163431&format=geojson
+ok2026vvhm,3.38,"6 km E of Calumet, Oklahoma",1794052423259,earthquake,"[-98.043, 35.61033333, 5.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ok2026vvhm&format=geojson
+us7000twrt,4.9,southern Mid-Atlantic Ridge,1794051338338,earthquake,"[-12.9445, -18.2483, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twrt&format=geojson
+us7000twrq,5.5,"74 km NE of Hasaki, Japan",1794049663355,earthquake,"[141.4404, 36.1884, 31.748]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twrq&format=geojson
+us7000twrp,4.5,"57 km SW of Ollagüe, Chile",1794048792299,earthquake,"[-68.6413, -21.6011, 110.716]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twrp&format=geojson
+us7000twrh,4.7,"156 km ESE of Modisi, Indonesia",1794044853240,earthquake,"[125.7691, 0.0075, 38.531]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twrh&format=geojson
+pr71538678,3.1,"33 km NNW of Culebra, Puerto Rico",1794040851000,earthquake,"[-65.4421666666667, 18.5723333333333, 71.09]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538678&format=geojson
+pr71538673,3.23,"70 km NNW of San Antonio, Puerto Rico",1794040690080,earthquake,"[-67.4431666666667, 19.0335, 21.17]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538673&format=geojson
+aka2026wbexmo,2.9,"2 km N of Tyonek, Alaska",1794038616154,earthquake,"[-151.136, 61.089, 70.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wbexmo&format=geojson
+us7000twx2,4.5,central Mid-Atlantic Ridge,1794037591764,earthquake,"[-37.0749, 7.8907, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twx2&format=geojson
+us7000twqw,4.6,South Sandwich Islands region,1794035650868,earthquake,"[-25.8023, -57.9579, 103.682]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twqw&format=geojson
+aka2026wbdbcr,2.6,"64 km SE of Denali National Park, Alaska",1794035269331,earthquake,"[-150.82, 63.124, 134.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wbdbcr&format=geojson
+us7000twqr,4.4,"92 km W of Meulaboh, Indonesia",1794034430455,earthquake,"[95.3048, 4.2919, 50]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twqr&format=geojson
+us7000twqe,4.3,"37 km E of Churubamba, Peru",1794029815416,earthquake,"[-75.7965, -9.8421, 108.793]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twqe&format=geojson
+aka2026waxyfq,2.7,"29 km WNW of Valdez, Alaska",1794026072802,earthquake,"[-146.837, 61.248, 17.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026waxyfq&format=geojson
+pr71538668,2.74,"45 km NNE of Cruz Bay, U.S. Virgin Islands",1794019660170,earthquake,"[-64.6126666666667, 18.7055, 47.57]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538668&format=geojson
+pr71538663,2.68,"1 km S of Sabana Grande, Puerto Rico",1794019624480,earthquake,"[-66.9575, 18.0603333333333, 16.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538663&format=geojson
+aka2026watjic,2.6,"0 km ESE of Kasilof, Alaska",1794017846288,earthquake,"[-151.263, 60.334, 62.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026watjic&format=geojson
+us7000twpl,2.7,"5 km E of Hoback, Wyoming",1794014283617,earthquake,"[-110.7175, 43.275, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twpl&format=geojson
+uu80163296,3.13,"3 km NW of Little America, Wyoming",1794011863880,earthquake,"[-109.886166666667, 41.5646666666667, -1.97]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80163296&format=geojson
+aka2026waoozs,2.6,"143 km SSE of False Pass, Alaska",1794009244078,earthquake,"[-162.875, 53.601, 24.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026waoozs&format=geojson
+us7000twp3,4.4,"75 km SSE of Kuril’sk, Russia",1794006945408,earthquake,"[148.1062, 44.5682, 78.827]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twp3&format=geojson
+aka2026wamrab,2.6,"61 km WNW of Aleneva, Alaska",1794005782513,earthquake,"[-153.835, 58.322, 69.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wamrab&format=geojson
+us7000twqm,4.6,"11 km ENE of Yigo Village, Guam",1794004674867,earthquake,"[144.9932, 13.5679, 113.394]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twqm&format=geojson
+hv75068057,2.9,"5 km NE of Kalaoa, Hawaii",1794002918790,earthquake,"[-155.9415, 19.7556666666667, 13.91]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75068057&format=geojson
+nn00926740,2.77,"39 km WNW of Preston, Nevada",1794000846730,earthquake,"[-115.4832, 39.052, 0]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nn00926740&format=geojson
+aka2026waikur,3.0,"Rat Islands, Aleutian Islands, Alaska",1793998154526,earthquake,"[178.343, 52.043, 13]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026waikur&format=geojson
+aka2026wahwse,3.2,"87 km SE of Atka, Alaska",1793997178099,earthquake,"[-173.194, 51.713, 33.6]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wahwse&format=geojson
+aka2026wahufy,2.5,"123 km SSE of False Pass, Alaska",1793997008769,earthquake,"[-162.844, 53.798, 1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wahufy&format=geojson
+aka2026wahreq,3.1,"10 km WNW of Seldovia, Alaska",1793996795721,earthquake,"[-151.887, 59.469, 58.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wahreq&format=geojson
+us7000twp1,3.2,"87 km NE of Adak, Alaska",1793995213886,earthquake,"[-175.6674, 52.3935, 246.155]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twp1&format=geojson
+aka2026wagewp,2.7,"93 km ESE of Ugashik, Alaska",1793994148248,earthquake,"[-156.064, 57.082, 69.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wagewp&format=geojson
+us7000twmr,4.8,"36 km WNW of Poso, Indonesia",1793992021269,earthquake,"[120.4589, -1.2393, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twmr&format=geojson
+us7000twmq,4.4,"10 km ESE of Pedasí, Panama",1793992014642,earthquake,"[-79.9371, 7.5079, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twmq&format=geojson
+aka2026waezkm,2.5,"50 km SW of Nikolski, Alaska",1793991971033,earthquake,"[-169.327, 52.581, 5.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026waezkm&format=geojson
+aka2026waeruf,2.6,"103 km S of False Pass, Alaska",1793991442240,earthquake,"[-163.251, 53.925, 15.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026waeruf&format=geojson
+aka2026waelpd,2.6,"107 km S of False Pass, Alaska",1793991014644,earthquake,"[-163.225, 53.897, 9.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026waelpd&format=geojson
+aka2026waebep,3.1,"122 km SSW of False Pass, Alaska",1793990295862,earthquake,"[-163.898, 53.789, 14.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026waebep&format=geojson
+aka2026wacyry,2.7,"95 km S of Sand Point, Alaska",1793988304787,earthquake,"[-160.49, 54.481, 4.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026wacyry&format=geojson
+us7000twkp,4.3,"263 km E of Levuka, Fiji",1793987605873,earthquake,"[-178.191, -18.0741, 567.218]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twkp&format=geojson
+us7000twwz,4.6,southern East Pacific Rise,1793983535828,earthquake,"[-124.7065, -55.991, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twwz&format=geojson
+us7000twhq,4.5,"101 km SSE of Palekastro, Greece",1793978818080,earthquake,"[26.4987, 34.3043, 40.657]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twhq&format=geojson
+aka2026vzxiyp,2.8,"6 km NW of Big Lake, Alaska",1793978237021,earthquake,"[-150.023, 61.568, 14.6]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzxiyp&format=geojson
+us7000txmv,2.8,"123 km SSE of False Pass, Alaska",1793975058430,earthquake,"[-163.0216, 53.7644, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txmv&format=geojson
+us7000txmt,2.7,"140 km SSE of False Pass, Alaska",1793974472811,earthquake,"[-162.865, 53.6287, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txmt&format=geojson
+us7000twhh,4.2,"Bonin Islands, Japan region",1793973176729,earthquake,"[140.2478, 26.9139, 450.247]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twhh&format=geojson
+tx2026vwborq,2.5,"58 km S of Whites City, New Mexico",1793963379601,earthquake,"[-104.428, 31.651, 5.3308]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026vwborq&format=geojson
+pr71538608,3.15,"62 km NNE of Luquillo, Puerto Rico",1793962781730,earthquake,"[-65.4766666666667, 18.8921666666667, 60.24]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538608&format=geojson
+aka2026vzoqkz,3.1,"144 km SSE of False Pass, Alaska",1793962565128,earthquake,"[-162.871, 53.597, 7.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzoqkz&format=geojson
+us7000twg9,6.1,"144 km SE of Hasaki, Japan",1793961567869,earthquake,"[142.1175, 34.9677, 29]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twg9&format=geojson
+us7000twg8,4.2,"96 km W of Tuapejat, Indonesia",1793961047009,earthquake,"[98.719, -2.0748, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twg8&format=geojson
+aka2026vznkxv,2.7,"100 km SSE of False Pass, Alaska",1793960387470,earthquake,"[-162.857, 54.015, 12.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vznkxv&format=geojson
+us7000twg3,4.5,"91 km SSW of Vilyuchinsk, Russia",1793959978285,earthquake,"[157.9848, 52.1543, 100.853]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twg3&format=geojson
+pr71538593,2.9,"37 km N of Charlotte Amalie, U.S. Virgin Islands",1793956619530,earthquake,"[-64.998, 18.6703333333333, 44.19]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538593&format=geojson
+us7000twfu,4.5,"87 km N of Isangel, Vanuatu",1793952848319,earthquake,"[169.2644, -18.7543, 246.521]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twfu&format=geojson
+aka2026vzibvj,2.8,"151 km SSE of False Pass, Alaska",1793950758341,earthquake,"[-162.785, 53.547, 23.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzibvj&format=geojson
+aka2026vzhlqb,2.8,"132 km SSE of False Pass, Alaska",1793949637371,earthquake,"[-162.913, 53.702, 19.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzhlqb&format=geojson
+aka2026vzhhnt,2.7,"142 km SSE of False Pass, Alaska",1793949354011,earthquake,"[-162.833, 53.617, 6.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzhhnt&format=geojson
+aka2026vzgwns,2.7,"144 km SSE of False Pass, Alaska",1793948589996,earthquake,"[-162.845, 53.601, 18]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzgwns&format=geojson
+ci41359103,2.6,"14 km N of Warner Springs, CA",1793947449160,earthquake,"[-116.653166666667, 33.4061666666667, 7.49]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci41359103&format=geojson
+us7000txga,2.9,"133 km SSE of False Pass, Alaska",1793946850865,earthquake,"[-162.9111, 53.687, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txga&format=geojson
+us7000txff,2.6,"118 km SE of Akutan, Alaska",1793946732641,earthquake,"[-164.2816, 53.5456, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txff&format=geojson
+aka2026vzftyy,3.1,"52 km NNW of Karluk, Alaska",1793946613260,earthquake,"[-154.926, 57.967, 90.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzftyy&format=geojson
+us7000twfk,4.9,"41 km SW of Balangonan, Philippines",1793946506156,earthquake,"[125.0977, 5.2999, 35]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twfk&format=geojson
+us7000txfc,2.6,"131 km SW of Nikolski, Alaska",1793945448791,earthquake,"[-170.2968, 52.1451, 16.209]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txfc&format=geojson
+pr71538583,2.67,"20 km N of Charlotte Amalie, U.S. Virgin Islands",1793945042910,earthquake,"[-64.9415, 18.5241666666667, 42.38]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538583&format=geojson
+aka2026vzdvgf,2.5,"94 km SSE of False Pass, Alaska",1793943105234,earthquake,"[-162.795, 54.082, 14.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzdvgf&format=geojson
+aka2026vzcpif,2.9,"151 km SSE of False Pass, Alaska",1793940892714,earthquake,"[-162.882, 53.528, 10.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzcpif&format=geojson
+aka2026vzcohi,2.5,"64 km S of Ivanof Bay, Alaska",1793940829699,earthquake,"[-159.335, 55.333, 5.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzcohi&format=geojson
+aka2026vzckrc,3.1,"138 km SSE of False Pass, Alaska",1793940576969,earthquake,"[-162.925, 53.645, 5.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzckrc&format=geojson
+us7000twf2,4.4,"185 km NNW of Gorontalo, Indonesia",1793938395747,earthquake,"[122.649, 2.1669, 510.384]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twf2&format=geojson
+pr2026310000,3.45,"1 km NW of Moca, Puerto Rico",1793937824220,earthquake,"[-67.1223, 18.4006, 59]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr2026310000&format=geojson
+aka2026vzauvn,2.7,"73 km SE of Adak, Alaska",1793937678444,earthquake,"[-175.955, 51.363, 27.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzauvn&format=geojson
+us7000twey,3.1,"210 km W of Port Orford, Oregon",1793937469352,earthquake,"[-127.0289, 43.1127, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twey&format=geojson
+aka2026vzakvc,2.8,"144 km SSE of False Pass, Alaska",1793936987882,earthquake,"[-162.845, 53.603, 17.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vzakvc&format=geojson
+us7000twet,3.6,"49 km WSW of Puerto, Chile",1793934574434,earthquake,"[-70.5945, -20.3905, 25.803]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twet&format=geojson
+aka2026vyycgh,3.1,"144 km SSE of False Pass, Alaska",1793932796829,earthquake,"[-162.782, 53.608, 19.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vyycgh&format=geojson
+us7000tweq,4.7,"139 km SSE of False Pass, Alaska",1793932525631,earthquake,"[-162.9502, 53.6347, 27.963]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tweq&format=geojson
+us7000tweb,4.6,"58 km WNW of Isangel, Vanuatu",1793929059847,earthquake,"[168.7529, -19.3647, 83.271]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tweb&format=geojson
+aka2026vyvybd,2.8,"145 km SSE of False Pass, Alaska",1793928904619,earthquake,"[-162.839, 53.589, 4.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vyvybd&format=geojson
+aka2026vyvwto,2.7,"97 km S of Sand Point, Alaska",1793928899926,earthquake,"[-160.333, 54.469, 8.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vyvwto&format=geojson
+aka2026vyvjtl,3.3,"139 km SSE of False Pass, Alaska",1793927918349,earthquake,"[-162.904, 53.634, 4.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vyvjtl&format=geojson
+aka2026vyvhdo,2.8,"131 km SSE of False Pass, Alaska",1793927738650,earthquake,"[-162.981, 53.697, 14.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vyvhdo&format=geojson
+aka2026vyurpm,2.5,"77 km W of Akhiok, Alaska",1793926661990,earthquake,"[-155.448, 56.975, 4.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vyurpm&format=geojson
+aka2026vyuofq,3.2,"138 km SSE of False Pass, Alaska",1793926425482,earthquake,"[-162.922, 53.644, 9.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vyuofq&format=geojson
+us7000twdk,4.2,"76 km ENE of Donggang, Taiwan",1793925460810,earthquake,"[121.1634, 22.662, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twdk&format=geojson
+aka2026vytovb,2.5,"49 km S of Nikolski, Alaska",1793924667414,earthquake,"[-168.809, 52.494, 16.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vytovb&format=geojson
+aka2026vytluo,2.5,"99 km SE of False Pass, Alaska",1793924448315,earthquake,"[-162.436, 54.16, 10.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vytluo&format=geojson
+us7000twdd,4.6,"96 km NNW of Lae, Papua New Guinea",1793923345016,earthquake,"[146.6624, -5.9168, 97.804]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twdd&format=geojson
+us7000twdf,3.6,"138 km SSE of False Pass, Alaska",1793921365341,earthquake,"[-162.8292, 53.654, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twdf&format=geojson
+aka2026vyrfnp,2.9,"144 km SSE of False Pass, Alaska",1793920428383,earthquake,"[-162.888, 53.593, 10.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vyrfnp&format=geojson
+aka2026vyrefu,3.0,"145 km SSE of False Pass, Alaska",1793920337289,earthquake,"[-162.845, 53.587, 6.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vyrefu&format=geojson
+pr71538538,2.95,"13 km S of Santa Isabel, Puerto Rico",1793920173360,earthquake,"[-66.4078333333333, 17.8445, 9.29]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538538&format=geojson
+aka2026vyrbhj,2.9,"147 km SSE of False Pass, Alaska",1793920132899,earthquake,"[-162.806, 53.577, 9.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vyrbhj&format=geojson
+aka2026vyrann,3.0,"148 km SSE of False Pass, Alaska",1793920081588,earthquake,"[-162.789, 53.571, 9.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vyrann&format=geojson
+us7000twd4,4.6,"147 km SSE of False Pass, Alaska",1793919897395,earthquake,"[-162.9503, 53.5527, 16.134]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twd4&format=geojson
+us7000twcy,4.6,south of the Fiji Islands,1793918088173,earthquake,"[179.9392, -23.5322, 523.445]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twcy&format=geojson
+aka2026vypwpu,2.8,"78 km N of Chickaloon, Alaska",1793918038490,earthquake,"[-148.238, 62.492, 48.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vypwpu&format=geojson
+aka2026vymljb,2.5,"32 km SE of Skwentna, Alaska",1793911833378,earthquake,"[-150.92, 61.809, 68.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vymljb&format=geojson
+aka2026vylvei,2.5,"91 km SE of Akutan, Alaska",1793910715241,earthquake,"[-164.994, 53.452, 29.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vylvei&format=geojson
+aka2026vyltfb,2.6,"88 km SSE of Akutan, Alaska",1793910579764,earthquake,"[-165.025, 53.475, 29.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vyltfb&format=geojson
+us7000twb9,4.4,"37 km SSW of Masjed Soleymān, Iran",1793905141729,earthquake,"[49.1549, 31.6233, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twb9&format=geojson
+us7000twaq,4.6,"36 km E of Watari, Japan",1793901943367,earthquake,"[141.2636, 37.9934, 87.44]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twaq&format=geojson
+us7000tw8r,6.1,Fiji region,1793899305305,earthquake,"[-178.7145, -21.1984, 535]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw8r&format=geojson
+us7000tw8p,5.0,"130 km NE of Thang, India",1793897785875,earthquake,"[77.9399, 35.6318, 76.944]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw8p&format=geojson
+us7000tw8m,4.3,"218 km ENE of Levuka, Fiji",1793897085764,earthquake,"[-178.6592, -17.6788, 558.78]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw8m&format=geojson
+pr71538523,2.78,"3 km WNW of Orocovis, Puerto Rico",1793885827100,earthquake,"[-66.4246666666667, 18.2428333333333, 35.08]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538523&format=geojson
+aka2026vxuhot,2.5,"112 km E of Chignik, Alaska",1793879186355,earthquake,"[-156.583, 56.289, 15.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxuhot&format=geojson
+aka2026vxslfj,3.3,"110 km ESE of Akutan, Alaska",1793875847825,earthquake,"[-164.271, 53.697, 16]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxslfj&format=geojson
+ok2026vrnt,2.75,"6 km ENE of Calumet, Oklahoma",1793874673330,earthquake,"[-98.04516667, 35.6135, 6.63]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ok2026vrnt&format=geojson
+us7000tw7b,4.8,Sea of Okhotsk,1793873373723,earthquake,"[147.7534, 49.2594, 554.419]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw7b&format=geojson
+aka2026vxqixu,3.4,"120 km SW of Nikolski, Alaska",1793872085032,earthquake,"[-170.052, 52.13, 19.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxqixu&format=geojson
+aka2026vxqfum,3.5,"117 km SW of Nikolski, Alaska",1793871920748,earthquake,"[-170.133, 52.217, 32.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxqfum&format=geojson
+aka2026vxqftg,3.2,"120 km SW of Nikolski, Alaska",1793871863400,earthquake,"[-170.152, 52.193, 20.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxqftg&format=geojson
+aka2026vxpxjd,2.6,"61 km SW of Akhiok, Alaska",1793871283071,earthquake,"[-154.978, 56.614, 46.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxpxjd&format=geojson
+us7000tw76,5.1,"19 km NNW of Masumbwe, Tanzania",1793870552714,earthquake,"[32.149, -3.4641, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw76&format=geojson
+us7000twbd,3.8,"116 km SW of Nikolski, Alaska",1793870084556,earthquake,"[-170.23, 52.3045, 28.739]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twbd&format=geojson
+us7000twbb,3.8,"117 km SW of Nikolski, Alaska",1793869169067,earthquake,"[-170.0969, 52.199, 28.088]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twbb&format=geojson
+us7000twb4,3.9,"68 km S of Unalaska, Alaska",1793867522817,earthquake,"[-166.5022, 53.2569, 43.021]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twb4&format=geojson
+us7000txzq,4.1,Fiji region,1793862269887,earthquake,"[-177.5558, -19.3178, 571.528]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txzq&format=geojson
+us7000tx55,2.7,"53 km SSE of Akutan, Alaska",1793860005484,earthquake,"[-165.3455, 53.7291, 46.624]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tx55&format=geojson
+us7000txzp,4.4,"54 km WSW of Balangonan, Philippines",1793859624699,earthquake,"[124.9383, 5.3181, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txzp&format=geojson
+aka2026vxivoz,2.5,"68 km S of Unalaska, Alaska",1793858565412,earthquake,"[-166.52, 53.256, 38.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxivoz&format=geojson
+us7000txzm,4.3,"94 km ENE of Finschhafen, Papua New Guinea",1793856132773,earthquake,"[148.5759, -6.1076, 101.523]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txzm&format=geojson
+aka2026vxgtve,2.5,"59 km SSE of Adak, Alaska",1793854845438,earthquake,"[-176.428, 51.356, 29.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxgtve&format=geojson
+nc75462637,4.96,"111 km W of Petrolia, CA",1793854562670,earthquake,"[-125.585333333333, 40.4073333333333, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=nc75462637&format=geojson
+aka2026vxgahe,3.5,"273 km SSE of Perryville, Alaska",1793853493455,earthquake,"[-157.175, 53.733, 20]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxgahe&format=geojson
+aka2026vxfyqi,2.8,"91 km SSE of King Cove, Alaska",1793853436764,earthquake,"[-161.553, 54.371, 10.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxfyqi&format=geojson
+aka2026vxflhk,3.0,"22 km S of Funny River, Alaska",1793852456983,earthquake,"[-150.78, 60.303, 64.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxflhk&format=geojson
+aka2026vxeeuz,2.6,"23 km S of Funny River, Alaska",1793850209229,earthquake,"[-150.813, 60.296, 64.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxeeuz&format=geojson
+aka2026vxccat,2.8,"148 km SW of Adak, Alaska",1793846417726,earthquake,"[-178.332, 51.069, 19.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vxccat&format=geojson
+us7000twh9,4.5,West Chile Rise,1793842551731,earthquake,"[-87.6046, -40.6911, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twh9&format=geojson
+aka2026vwyznm,2.6,"52 km WNW of Ninilchik, Alaska",1793840841220,earthquake,"[-152.577, 60.165, 106.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vwyznm&format=geojson
+us7000tw53,4.1,"226 km ENE of Nagqu, China",1793839755589,earthquake,"[94.1224, 32.5065, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw53&format=geojson
+us7000tw4z,4.1,"10 km WSW of Dinar, Turkey",1793838197796,earthquake,"[30.0682, 38.0156, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw4z&format=geojson
+pr71538513,3.23,"106 km N of Isabela, Puerto Rico",1793836550740,earthquake,"[-66.9053333333333, 19.4543333333333, 26.44]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538513&format=geojson
+hv75068576,3.12,"26 km NW of Pāhala, Hawaii",1793829595690,earthquake,"[-155.621333333333, 19.3953333333333, -2.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=hv75068576&format=geojson
+us7000txur,4.4,"135 km ENE of Barcelona, Philippines",1793829521944,earthquake,"[127.6216, 8.4824, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txur&format=geojson
+aka2026vwruvq,2.7,"52 km E of Port Alsworth, Alaska",1793827922343,earthquake,"[-153.379, 60.116, 154.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vwruvq&format=geojson
+us7000tw43,4.6,south of the Fiji Islands,1793827464314,earthquake,"[179.9439, -25.1576, 499.745]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw43&format=geojson
+us7000tw3n,4.5,South Indian Ocean,1793822766968,earthquake,"[88.0827, -1.4064, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw3n&format=geojson
+us7000tw3k,4.5,"2 km W of Chinandega, Nicaragua",1793822126313,earthquake,"[-87.1544, 12.6311, 159.022]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw3k&format=geojson
+aka2026vwonln,2.5,"52 km SW of Akhiok, Alaska",1793822014570,earthquake,"[-154.798, 56.625, 1.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vwonln&format=geojson
+aka2026vwogbw,2.7,"56 km NW of Ninilchik, Alaska",1793821509512,earthquake,"[-152.465, 60.362, 100.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vwogbw&format=geojson
+aka2026vwoaud,2.6,"14 km E of Chenega, Alaska",1793821142913,earthquake,"[-147.753, 60.088, 26.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vwoaud&format=geojson
+us7000tw4w,4.2,"30 km S of Adak, Alaska",1793820140560,earthquake,"[-176.6581, 51.5984, 74.504]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw4w&format=geojson
+ci41358359,2.69,"21 km N of Searles Valley, CA",1793819713940,earthquake,"[-117.3935, 35.9566666666667, 2.49]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci41358359&format=geojson
+ci41358343,3.12,"21 km N of Searles Valley, CA",1793818770920,earthquake,"[-117.3925, 35.958, 2.64]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci41358343&format=geojson
+us7000tw2x,4.2,"47 km SSW of Jurm, Afghanistan",1793818489398,earthquake,"[70.7177, 36.446, 199.264]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tw2x&format=geojson
+aka2026vwjrrv,2.6,"18 km SSW of Denali National Park, Alaska",1793813316817,earthquake,"[-151.808, 63.378, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vwjrrv&format=geojson
+pr2026308002,3.49,"106 km NNE of Punta Cana, Dominican Republic",1793812191240,earthquake,"[-68.0753, 19.4948, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr2026308002&format=geojson
+pr2026308001,4.21,"100 km NNE of Punta Cana, Dominican Republic",1793811563360,earthquake,"[-68.1008, 19.4396, 11]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr2026308001&format=geojson
+aka2026vwesvb,2.5,"83 km SW of Nanwalek, Alaska",1793804399236,earthquake,"[-153.022, 58.862, 68.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vwesvb&format=geojson
+us7000twh7,4.5,"107 km SSW of Colonia, Micronesia",1793804175196,earthquake,"[137.61, 8.684, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twh7&format=geojson
+us7000tvxn,4.3,"78 km S of Nikolski, Alaska",1793794970079,earthquake,"[-168.764, 52.2397, 11.588]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvxn&format=geojson
+us7000tvxj,4.3,"127 km SSW of Kokopo, Papua New Guinea",1793794485921,earthquake,"[152.0301, -5.4706, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvxj&format=geojson
+aka2026vvzdxb,2.8,"4 km WSW of Tyonek, Alaska",1793794370864,earthquake,"[-151.217, 61.047, 75.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvzdxb&format=geojson
+uu80162776,2.53,"15 km NNE of Milford, Utah",1793793215500,earthquake,"[-112.919666666667, 38.5195, 3.82]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=uu80162776&format=geojson
+aka2026vvxgii,2.5,"92 km SE of Ugashik, Alaska",1793790940351,earthquake,"[-156.155, 57.027, 3.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvxgii&format=geojson
+tx2026vsikdc,2.5,"24 km W of Garden City, Texas",1793787453908,earthquake,"[-101.738, 31.88, 7.1045]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=tx2026vsikdc&format=geojson
+aka2026vvrwqb,3.2,"74 km E of Cantwell, Alaska",1793781274002,earthquake,"[-147.48, 63.503, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvrwqb&format=geojson
+aka2026vvqqoe,3.2,"98 km SSW of Nikolski, Alaska",1793779062787,earthquake,"[-169.314, 52.102, 10.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvqqoe&format=geojson
+us7000tvwj,5.0,"207 km ESE of Sarangani, Philippines",1793778012288,earthquake,"[127.0325, 4.3895, 49.074]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvwj&format=geojson
+aka2026vvpjkz,2.6,"82 km S of Perryville, Alaska",1793776762906,earthquake,"[-159.227, 55.175, 16.6]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvpjkz&format=geojson
+aka2026vvoqoh,3.0,"53 km ENE of Pedro Bay, Alaska",1793775455313,earthquake,"[-153.179, 59.894, 132]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvoqoh&format=geojson
+aka2026vvnqhu,2.5,"102 km ENE of Chignik, Alaska",1793773830503,earthquake,"[-156.794, 56.506, 21.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvnqhu&format=geojson
+pr71538438,2.81,"8 km SSE of Maria Antonia, Puerto Rico",1793772690600,earthquake,"[-66.8513333333333, 17.9143333333333, 11.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538438&format=geojson
+aka2026vvnaod,3.2,"40 km WSW of Covenant Life, Alaska",1793772529254,earthquake,"[-136.659, 59.248, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvnaod&format=geojson
+aka2026vvmlci,2.5,"59 km SSE of Beaver, Alaska",1793771479054,earthquake,"[-146.853, 65.872, 4.9]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvmlci&format=geojson
+pr71538433,3.05,"40 km NW of San Antonio, Puerto Rico",1793769227530,earthquake,"[-67.327, 18.7898333333333, 14.09]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538433&format=geojson
+pr71538428,3.03,"32 km NW of San Antonio, Puerto Rico",1793769160710,earthquake,"[-67.2831666666667, 18.7273333333333, 15.43]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr71538428&format=geojson
+us7000tvw3,3.0,"203 km S of Sand Point, Alaska",1793767767438,earthquake,"[-159.9536, 53.5345, 35]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvw3&format=geojson
+aka2026vvjipe,2.6,"60 km NNE of Ouzinkie, Alaska",1793765909908,earthquake,"[-152.15, 58.435, 38.6]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvjipe&format=geojson
+aka2026vvhhsm,3.4,"30 km SSE of Skwentna, Alaska",1793762255367,earthquake,"[-151.172, 61.741, 83]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvhhsm&format=geojson
+aka2026vvgxwy,2.6,"48 km WNW of Nanwalek, Alaska",1793761569948,earthquake,"[-152.75, 59.472, 76.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvgxwy&format=geojson
+us7000tvvc,4.2,"Bonin Islands, Japan region",1793760029495,earthquake,"[140.2929, 27.0774, 429.393]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvvc&format=geojson
+aka2026vvfpmx,2.7,"33 km SSW of Nanwalek, Alaska",1793759190569,earthquake,"[-152.223, 59.096, 61]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvfpmx&format=geojson
+pr2026308000,3.56,"46 km NE of Samaná, Dominican Republic",1793758515910,earthquake,"[-68.9866, 19.4611, 26]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=pr2026308000&format=geojson
+aka2026vvegpd,2.5,"49 km SSW of Sand Point, Alaska",1793756774165,earthquake,"[-160.859, 54.943, 50.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvegpd&format=geojson
+aka2026vvdxak,2.6,"65 km ESE of Sand Point, Alaska",1793756095239,earthquake,"[-159.561, 55.09, 5.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvdxak&format=geojson
+ok2026vozy,3.18,"3 km SE of Meno, Oklahoma",1793754943509,earthquake,"[-98.15433333, 36.36333333, 6.47]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ok2026vozy&format=geojson
+aka2026vvdefx,2.7,"15 km ENE of Ferry, Alaska",1793754812827,quarry blast,"[-148.816, 64.056, 0]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvdefx&format=geojson
+us7000txu6,4.3,"93 km NNE of Ruteng, Indonesia",1793753433953,earthquake,"[120.8976, -7.8888, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txu6&format=geojson
+ok2026vozb,3.57,"3 km SE of Meno, Oklahoma",1793753310789,earthquake,"[-98.15366667, 36.36316667, 6.79]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ok2026vozb&format=geojson
+aka2026vvbyqq,2.5,"58 km SW of Tatitlek, Alaska",1793752626205,earthquake,"[-147.536, 60.551, 14.6]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvbyqq&format=geojson
+us7000tvuv,4.6,Fiji region,1793752380270,earthquake,"[-177.4833, -19.216, 562.894]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvuv&format=geojson
+aka2026vvault,2.6,"103 km SSE of King Cove, Alaska",1793750538008,earthquake,"[-161.491, 54.266, 5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvault&format=geojson
+aka2026vvaimd,2.6,"105 km SSE of Sand Point, Alaska",1793749707808,earthquake,"[-160.123, 54.418, 14.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvaimd&format=geojson
+aka2026vvahjp,2.7,"91 km SSE of Sand Point, Alaska",1793749632075,earthquake,"[-160.158, 54.535, 2.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vvahjp&format=geojson
+aka2026vuyzik,2.5,"79 km SW of Unalaska, Alaska",1793747413721,earthquake,"[-167.291, 53.323, 9.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vuyzik&format=geojson
+us7000tvu9,4.5,"99 km ESE of Kyzyl-Eshme, Kyrgyzstan",1793746233493,earthquake,"[73.3843, 39.3178, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvu9&format=geojson
+us7000tvu2,4.4,"256 km E of Levuka, Fiji",1793744879443,earthquake,"[-178.2975, -17.6569, 549.658]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvu2&format=geojson
+us7000txm2,4.6,"63 km ESE of Kyzyl-Eshme, Kyrgyzstan",1793742253250,earthquake,"[72.9703, 39.3904, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000txm2&format=geojson
+us7000tvtj,5.2,"98 km ESE of Kyzyl-Eshme, Kyrgyzstan",1793741648472,earthquake,"[73.3772, 39.3453, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvtj&format=geojson
+ci41572136,2.5,"7 km NNE of Delta, B.C., MX",1793734551820,earthquake,"[-115.157833333333, 32.409, 15.52]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci41572136&format=geojson
+ci41572104,2.95,"7 km NNE of Delta, B.C., MX",1793733490940,earthquake,"[-115.162333333333, 32.4135, 16.29]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci41572104&format=geojson
+aka2026vuqppy,2.6,"32 km SE of Akutan, Alaska",1793732203200,earthquake,"[-165.406, 53.942, 79.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vuqppy&format=geojson
+ci41572064,4.8869503562808,"9 km N of Delta, B.C., MX",1793730451190,earthquake,"[-115.179666666667, 32.4308333333333, 15.59]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci41572064&format=geojson
+us7000tvs3,5.2,Mid-Indian Ridge,1793730073036,earthquake,"[78.3027, -35.5195, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvs3&format=geojson
+ci41572056,3.47,"8 km NNE of Delta, B.C., MX",1793729833910,earthquake,"[-115.164666666667, 32.4208333333333, 16.46]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=ci41572056&format=geojson
+aka2026vupdkx,2.5,"55 km SE of Unalaska, Alaska",1793729568567,earthquake,"[-165.836, 53.591, 27.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vupdkx&format=geojson
+aka2026vupcsv,3.0,"7 km N of Point Possession, Alaska",1793729518788,earthquake,"[-150.703, 60.989, 60.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vupcsv&format=geojson
+aka2026vuobuu,2.9,"64 km SE of Adak, Alaska",1793727656949,earthquake,"[-176.079, 51.403, 22.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vuobuu&format=geojson
+aka2026vunrap,2.6,"66 km E of Port Alsworth, Alaska",1793726921338,earthquake,"[-153.127, 60.274, 153.1]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vunrap&format=geojson
+aka2026vunbfp,2.9,"41 km SW of Atka, Alaska",1793725816266,earthquake,"[-174.547, 51.886, 78.4]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vunbfp&format=geojson
+us7000tvpc,4.1,"57 km SW of Zahedan, Iran",1793725670024,earthquake,"[60.4194, 29.1514, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvpc&format=geojson
+aka2026vumpow,2.5,"53 km W of Anchor Point, Alaska",1793725002382,earthquake,"[-152.77, 59.854, 102.7]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vumpow&format=geojson
+us7000tvsl,3.6,"67 km SE of Adak, Alaska",1793724537818,earthquake,"[-175.9592, 51.4315, 35]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvsl&format=geojson
+us7000tvie,5.2,"Volcano Islands, Japan region",1793724492006,earthquake,"[141.6688, 24.1773, 129.171]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvie&format=geojson
+us7000tvs7,2.5,"124 km SSW of Nikolski, Alaska",1793723935304,earthquake,"[-169.4474, 51.8745, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvs7&format=geojson
+us7000tveb,4.3,south of the Fiji Islands,1793723431516,earthquake,"[179.7187, -25.288, 500.022]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tveb&format=geojson
+us7000tva7,4.8,"85 km S of Gorontalo, Indonesia",1793720271082,earthquake,"[123.1532, -0.2295, 136.685]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tva7&format=geojson
+aka2026vujmmy,2.5,"103 km ENE of Chignik, Alaska",1793719400708,earthquake,"[-156.78, 56.544, 80.2]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vujmmy&format=geojson
+us7000tva4,4.3,"38 km SSE of Yilan, Taiwan",1793719324984,earthquake,"[121.8693, 24.4281, 12.86]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tva4&format=geojson
+us7000tvs8,4.1,"23 km SW of Amorgós, Greece",1793715839725,earthquake,"[25.7448, 36.6547, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tvs8&format=geojson
+us7000tv5q,4.1,"57 km SW of Ollagüe, Chile",1793715780160,earthquake,"[-68.5835, -21.6404, 119.327]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tv5q&format=geojson
+us7000tv5n,4.4,"72 km S of Xinyuan, China",1793714545578,earthquake,"[83.3536, 42.7752, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tv5n&format=geojson
+us7000tv5i,5.0,South Sandwich Islands region,1793712844565,earthquake,"[-26.2903, -58.7979, 133.113]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tv5i&format=geojson
+aka2026vufldt,3.1,"130 km SSW of Nikolski, Alaska",1793712095362,earthquake,"[-169.3, 51.798, 1.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vufldt&format=geojson
+us7000tv59,4.0,"7 km NNE of Esterhazy, Canada",1793711092193,earthquake,"[-102.0484, 50.7164, 10.001]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tv59&format=geojson
+aka2026vudyyh,2.6,"54 km WNW of Nanwalek, Alaska",1793709466232,earthquake,"[-152.813, 59.539, 98.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vudyyh&format=geojson
+aka2026vudflk,2.5,"29 km NNW of Beluga, Alaska",1793708123429,earthquake,"[-151.208, 61.395, 70.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vudflk&format=geojson
+aka2026vuaxrh,2.8,"87 km SE of Akutan, Alaska",1793703980031,earthquake,"[-165.024, 53.484, 15.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vuaxrh&format=geojson
+us7000tv51,4.9,"101 km SSE of Palekastro, Greece",1793703827340,earthquake,"[26.5713, 34.3254, 45.662]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tv51&format=geojson
+aka2026vtzcyv,2.5,"80 km ENE of Port Alsworth, Alaska",1793700747534,earthquake,"[-152.926, 60.413, 124.8]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vtzcyv&format=geojson
+us7000tv4i,5.4,"24 km NNW of Rioblanco, Colombia",1793697194972,earthquake,"[-75.7198, 3.7386, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tv4i&format=geojson
+aka2026vtvtat,2.5,"9 km N of Susitna, Alaska",1793694666792,earthquake,"[-150.513, 61.628, 51.5]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vtvtat&format=geojson
+us7000tv4c,4.5,"56 km NW of Finschhafen, Papua New Guinea",1793691833115,earthquake,"[147.5576, -6.1411, 67.39]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tv4c&format=geojson
+aka2026vtrdck,3.1,"143 km S of Unalaska, Alaska",1793686367893,earthquake,"[-166.624, 52.582, 19.3]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=aka2026vtrdck&format=geojson
+us7000twgy,4.5,"261 km E of Port Mathurin, Mauritius",1793685758975,earthquake,"[65.8888, -20.0071, 10]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000twgy&format=geojson
+us7000tv3q,4.8,"6 km S of Asahi, Japan",1793684418064,earthquake,"[140.648, 35.6591, 52.267]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tv3q&format=geojson
+us7000tv3l,4.5,"31 km E of Mawlaik, Burma (Myanmar)",1793683424068,earthquake,"[94.7089, 23.6023, 116.353]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=us7000tv3l&format=geojson
+mb90211928,2.5,"30 km SW of Salmon, Idaho",1793682789780,earthquake,"[-114.19, 45.0031666666667, 10.59]",https://earthquake.usgs.gov/fdsnws/event/1/query?eventid=mb90211928&format=geojson
